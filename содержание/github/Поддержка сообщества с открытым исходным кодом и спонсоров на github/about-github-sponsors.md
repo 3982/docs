@@ -9,15 +9,22 @@ versions:
 
 ### About {% data variables.product.prodname_sponsors %}
 
+
 {% data reusables.sponsors.sponsorship-details %} 
 
 {% data reusables.sponsors.no-fees %} For more information, see "[About billing for {% data variables.product.prodname_sponsors %}](/articles/about-billing-for-github-sponsors)."
 
-{% data reusables.sponsors.you-can-be-a-sponsored-developer %} For more information, see "[About {% data variables.product.prodname_sponsors %} for open source contributors](/github/supporting-the-open-source-community-with-github-sponsors/about-github-sponsors-for-open-source-contributors)" and "[Setting up {% data variables.product.prodname_sponsors %} for your user account](/github/supporting-the-open-source-community-with-github-sponsors/setting-up-github-sponsors-for-your-user-account)."
+
+{% data reusables.sponsors.you-can-be-a-sponsored-developer %} For more information, see "[About {% data variables.product.prodname_sponsors %} for open source contributors](/github/supporting-the-open-source-community-with-github-sponsors/about-github-sponsors-for-open-source-contributors)" and "[Setting up {% data variables.product.prodname_sponsors %} for your user account](/github/supporting-the-open-source-community-with-github-sponsors/setting-up-github-sponsors-for-your-user-account).
+
+
 
 {% data reusables.sponsors.you-can-be-a-sponsored-organization %} For more information, see "[Setting up {% data variables.product.prodname_sponsors %} for your organization](/github/supporting-the-open-source-community-with-github-sponsors/setting-up-github-sponsors-for-your-organization)."
 
 When you become a sponsored developer or sponsored organization, additional terms for {% data variables.product.prodname_sponsors %} apply. For more information, see "[GitHub Sponsors Additional Terms](/github/site-policy/github-sponsors-additional-terms)."
+
+
+
 
 ### About the {% data variables.product.prodname_matching_fund %}
 
@@ -37,7 +44,12 @@ To be eligible for the {% data variables.product.prodname_matching_fund %}, you 
 
 This is just the beginning — we'd love your input to make sure {% data variables.product.prodname_sponsors %} serves your needs into the future. Please send us your feedback or suggestions by contacting [{% data variables.contact.github_support %}](https://support.github.com/contact?form%5Bsubject%5D=GitHub+Sponsors). 
 
+
 ### Further reading
-- "[Sponsoring open source contributors](/github/supporting-the-open-source-community-with-github-sponsors/sponsoring-open-source-contributors)"
+- "[Spon
+soring open source contributors](/github/supporting-the-open-source-community-with-github-sponsors/sponsoring-open-source-contributo
+rs)"
+
 - "[Receiving sponsorships through {% data variables.product.prodname_sponsors %}](/github/supporting-the-open-source-community-with-github-sponsors/receiving-sponsorships-through-github-sponsors)"
 - "[FAQ with the {% data variables.product.prodname_sponsors %} team](https://github.blog/2019-06-12-faq-with-the-github-sponsors-team/)" on {% data variables.product.prodname_blog %}
+
